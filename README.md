@@ -1,2 +1,2 @@
-# izc
+# IZC
 IZ Coin
